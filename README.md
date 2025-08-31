@@ -15,3 +15,5 @@ The prediction result is then displayed to the user on the frontend.
 4. Backend loads the trained ML model and predicts the approval likelihood and returns the prediction result to the frontend.
 
 5. The frontend displays the approval likelihood to the user.
+
+<img src="data/screenshot.jpg" width="50%">
