@@ -16,4 +16,4 @@ The prediction result is then displayed to the user on the frontend.
 
 5. The frontend displays the approval likelihood to the user.
 
-<img src="data/screenshot.jpg" width="50%">
+<img src="img/screenshot.jpg" width="50%">
